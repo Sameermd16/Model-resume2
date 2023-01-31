@@ -104,7 +104,7 @@ hr{
 @media only screen and (max-width: 768px){
     .main_container{
         grid-template-columns: 1fr;
-        grid-template-rows: 500px 1fr 650px;
+        grid-template-rows: 500px 1fr 670px;
         grid-template-areas: 
         "intro_container"
         "second_container"
